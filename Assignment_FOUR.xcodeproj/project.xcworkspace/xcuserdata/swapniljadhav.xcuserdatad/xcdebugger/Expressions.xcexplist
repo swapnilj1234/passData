@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SecondVc.viewDidLoad():SecondVc.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_content&#9;_UIImageCGImageContent *&#9;0x6000021546f0&#9;0x00006000021546f0">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirstVc.Pass(_:):FirstVc.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
